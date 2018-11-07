@@ -1,0 +1,16 @@
+{
+  "name": "webpack-node-server-plugin-reproduction",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dominik Ferber <dominik.ferber+npm@gmail.com> (http://dferber.de/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "devDependencies": {
+    "webpack": "4.25.1",
+    "webpack-cli": "3.1.2",
+    "webpack-node-server-plugin": "1.0.1"
+  }
+}
